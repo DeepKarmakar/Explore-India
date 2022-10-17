@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Used Json Server for developemnt purpose.
+### `npm install -g json-server`
+
+goto data folder and hit the below command
+### `json-server --watch data.json`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

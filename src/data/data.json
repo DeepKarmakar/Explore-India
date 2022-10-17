@@ -1,0 +1,22 @@
+{
+    "mapData": [
+        {
+            "id": 1,
+            "location": "Kolkata",
+            "latitude": 22.5726,
+            "longitude": 88.3639
+        },
+        {
+            "id": 2,
+            "location": "Maharashtra",
+            "latitude": 19.601194,
+            "longitude": 75.552979
+        },
+        {
+            "id": 3,
+            "location": "Kerala",
+            "latitude": 10.850516,
+            "longitude": 76.27108
+        }
+    ]
+}
