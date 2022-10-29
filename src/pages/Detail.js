@@ -19,7 +19,7 @@ const Detail = () => {
   return (
     <div className="detail">
       <Row>
-        <Col md={7}>
+        <Col md={5}>
           <MapContainer
             center={[20.593683, 78.962883]}
             zoom={5}
@@ -31,7 +31,7 @@ const Detail = () => {
             />
           </MapContainer>
         </Col>
-        <Col md={5}>details</Col>
+        <Col md={7}>details</Col>
       </Row>
     </div>
   );

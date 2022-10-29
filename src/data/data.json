@@ -2,9 +2,83 @@
     "mapData": [
         {
             "id": 1,
-            "location": "Kolkata",
+            "location": "West Bengal",
             "latitude": 22.5726,
-            "longitude": 88.3639
+            "longitude": 88.3639,
+
+            "best_places_to_eat": [
+                {
+                    "name": "Glenary's",
+                    "ref": ""
+                }
+            ],
+            "best_places_to_stay": [
+                {
+                    "name": "Glenary's",
+                    "ref": ""
+                }
+            ],
+            "why_go": "text",
+            "when_to_go": [
+                {
+                    "time": "Apr-May",
+                    "description": "Best for hill views"
+                }
+            ],
+            "highlights": [
+                {
+                    "name": "Darjeeling",
+                    "description": "Visiting a tea estate"
+                }
+            ],
+            "history": "text",
+            "extra": [
+                {
+                    "name": "The ganges of delta",
+                    "description": "text"
+                }
+            ],
+            "places": [
+                {
+                    "name": "Sundorban",
+                    "description": "text",
+                    "sights": [
+                        {
+                            "name": "",
+                            "visiting_place": [
+                                {
+                                    "name": "",
+                                    "description": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "description": ""
+                        }
+                    ],
+                    "activities": [],
+                    "courses": [],
+                    "tours": {
+                        "description": "",
+                        "activities": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "sleeping": [],
+                    "eating": [],
+                    "drinking_nightlife": [],
+                    "entertainment": [],
+                    "shopping": []
+                },
+                {
+                    "name": "Bishnupur"
+
+                }
+            ]
         },
         {
             "id": 2,
