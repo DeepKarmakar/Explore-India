@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 import { Col, Container, Row } from "react-bootstrap";
 import { MapContainer, TileLayer } from "react-leaflet";
+import TitleAndDescription from "../components/TitleAndDescription";
 
 const baseUrl = "http://localhost:3000/";
 const Detail = () => {
@@ -31,7 +32,9 @@ const Detail = () => {
             />
           </MapContainer>
         </Col>
-        <Col md={7}>details</Col>
+        <Col md={7}>
+          <TitleAndDescription title="Description"/>
+        </Col>
       </Row>
     </div>
   );
